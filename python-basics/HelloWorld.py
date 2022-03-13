@@ -11,5 +11,3 @@ print(hello_string);
 # allows you to change the value of that variable whenever
 hello_string = "new world";
 print(hello_string);
-
-
