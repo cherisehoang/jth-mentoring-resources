@@ -2,9 +2,9 @@
 
 Write a Python program that will print this little cute bird:
 
-  ___
+`  ___
  ('v')
 ((___))
- ^   ^
+ ^   ^`
 
 Name the file: **bird.py**
