@@ -7,5 +7,5 @@ This includes all notes from the session.
 ### activities
 All activities and homework will be available in this section here.
 
-### activities
+### solutions
 All solutions for the activities and homework will be available in this section here.
