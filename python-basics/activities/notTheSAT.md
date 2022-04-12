@@ -28,6 +28,7 @@ Name the file: **leapYear.py**
 # Challenge Exercise
 
 Write a Python program using only one line of code, that will add two given years and determine if that new number is a leap year. It should return true if it is a leap year, and false if it isn't.
+*This excludes the line where you assign a value to the year you'll be using.*
 
 ```Expected example output:
 False
